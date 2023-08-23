@@ -28,7 +28,7 @@ request form data:
  salary: 1000
  #### **Responce 1**
  ```sh
-  [
+
 {
     "age": "24",
     "family": {
@@ -47,7 +47,7 @@ request form data:
     "name": "Seva",
     "salary": 1000
 }
-]
+
 ```
 
 #### **REQUEST 3**
